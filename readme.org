@@ -1,0 +1,4 @@
+* Instructions
+[[https://github.com/sidnt/kipspark2/blob/devel/src/main/scala/IndexingApp.scala][IndexingApp.scala]] is an App which creates the indices. 
+
+[[https://github.com/sidnt/kipspark2/blob/devel/src/main/scala/UserApp.scala][UserApp.scala]] is an App which interacts and servers responses to the user.
